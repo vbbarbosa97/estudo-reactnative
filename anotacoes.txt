@@ -1,0 +1,13 @@
+React Native Utilizando o expo
+
+0 - expo init nome-do-projeto
+1 - yarn add react-navigation //trabalha com as rotas
+2 - yarn add react-native-gesture-handler //lida com os gestos do usuario, ex.: arrastar a tela pro lado
+3 - react-native link react-native-gesture-handler //faz o link dos pacotes
+4 - yarn add react-navigation-stack //para utilizar o createStackNavigator
+5 - yarn add styled-components 
+6 - yarn add react-native-vector-icons //biblioteca de icones
+7 - react-native link react-native-vector-icons
+8 - yarn add axios //trabalhando com as chamadas a API
+9 - yarn add prop-types //trabalhando com as propriedades
+
